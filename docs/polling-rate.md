@@ -37,5 +37,5 @@ checksum, aqui vai a tabela para simplificar:
 
 ## Amostras
 
-A amostra dos packets para cada um das opções pode ser obtida [aqui](/samples/x11/polling-rate-sample.pcapng) assim
+A amostra dos packets para cada um das opções pode ser obtida [aqui](../samples/x11/polling-rate-sample.pcapng) assim
 como a response para cada request.
